@@ -9,10 +9,8 @@ const Footer = () => {
                 <div className="mt-16 basis-1/2 md:mt-0">
                     <img src={Logo} alt="logo" />
                     <p className="my-5">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
-                        Fugiat assumenda illo, optio adipisci aspernatur error maiores 
-                        corrupti inventore consectetur labore, quis est atque illum quia 
-                        provident quaerat cupiditate at neque.
+                        Unrivaled Gym. Unparalled Training Fitness Classes. World Class Studios to get the Body Shapes that you Dream of.. Get Your Dream Body Now!
+                        At our gym, we understand that fitness is about more than just working out. That's why we also offer a range of amenities designed to help you relax, unwind, and recover after your workout.
                     </p>
                     <p>
                     ©️Evogym All Rights Reserved.
@@ -20,20 +18,17 @@ const Footer = () => {
                 </div>
                 <div className="mt-16 basis-1/4 md:mt-0">
                     <h4 className="font-bold">Links</h4>
-                    <p className="my-5">
-                        Massa orci senectus
-                    </p>
-                    <p className="my-5">
-                        Et gravida id et etiam
-                    </p>
-                    <p>
-                        Ullamcorper vivamus
-                    </p>
+                    <p className="my-5">Founder</p>
+                    <p className="my-5">Why Choose Us</p>
+                    <p className="my-5">Franchise</p>
+                    <p>Membership</p>
                 </div>
                 <div className="mt-16 basis-1/4 md:mt-0">
                     <h4 className="font-bold">Contact Us</h4>
-                    <p className="my-5">Massa orci senectus</p>
-                    <p>(91)77777-77777</p>
+                    <p className="my-5">EvoGym, Dwarka Sector-21, New Delhi, India</p>
+                    <p className="my-5">evogym2023@gmail.com</p>
+                    <p className="my-5">(91)77777-77777</p>
+                    <p>(91)88888-88888</p>
                 </div>
             </div>
         </footer>
